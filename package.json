@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@frakas/api": "^0.1.9",
+    "@frakas/cli": "^0.0.88",
+    "babylonjs": "^5.30.0",
+    "babylonjs-gui": "^5.30.0",
+    "babylonjs-loaders": "^5.30.0",
+    "bufferutil": "^4.0.7",
+    "copy-webpack-plugin": "^11.0.0",
+    "cors": "^2.8.5",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.1",
+    "node-gyp-build": "^4.5.0",
+    "path-browserify": "^1.0.1",
+    "rxjs": "^7.5.7",
+    "source-map-loader": "^4.0.1",
+    "ts-loader": "^9.4.1",
+    "utf-8-validate": "^5.0.10",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "build": "frakas build",
+    "run": "frakas up",
+    "start": "frakas serve"
+  }
+}
