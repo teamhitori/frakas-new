@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@frakas/api": "^0.1.9",
-    "@frakas/cli": "^0.0.88",
+    "@frakas/api": "^0.1.10",
+    "@frakas/cli": "^0.0.89",
     "babylonjs": "^5.30.0",
     "babylonjs-gui": "^5.30.0",
     "babylonjs-loaders": "^5.30.0",
